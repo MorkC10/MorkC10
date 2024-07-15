@@ -1,4 +1,4 @@
 ### Hi there 👋
-## Mi name is Marco 🔥
+## My name is Marco 🔥
 
 - 🍗 Don Pollo
