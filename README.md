@@ -30,7 +30,7 @@ My focus is on clean, efficient code and the thoughtful use of modern technologi
 ### 🗄️ Databases
 <p align="left">
   <img src="https://img.icons8.com/color/48/mysql.png"          width="40" alt="MySQL"/>
-  <img src="https://icons8.com/icon/JRnxU7ZWP4mi/postgresql"     width="40" alt="PostgreSQL"/>
+  <img src="https://pics.freeicons.io/uploads/icons/png/16876668881551942134-512.png"     width="40" alt="PostgreSQL"/>
 </p>
 
 ### 🔧 Tools
